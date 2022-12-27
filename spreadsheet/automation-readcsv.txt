@@ -1,4 +1,4 @@
 ## List each company with respective product count
 ## List products with inventory less than 10
 ## List each comapny with respective local inventory value
-## Write to spreasheet:  Calculate and writeinventory value for each product into spreadsheet
+## Write to spreasheet:  Calculate and write inventory value for each product into spreadsheet
